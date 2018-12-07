@@ -15,7 +15,7 @@
 1. For writing CSS, please use a separate CSS file.
 1. The [code/api/facts/](code/api/facts/) path contains a mock facts data JSON API. Endpoints to get data are `api/facts/cat.json`, `api/facts/dog.json`, etc.
 1. When managing your time, please focus first on the JS functionality, then on the CSS and HTML.
-1. When ready to submit, push the feature branch to your private repo.
+1. When ready to submit, push the feature branch to your public repo.
 1. Open a PR from the feature branch to the main branch.
     - ![Create PR 1](instruction-images/4-create_pr-1.png)
     - ![Create PR 2](instruction-images/5-create_pr-2.png)
