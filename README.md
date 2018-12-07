@@ -19,7 +19,7 @@
 ## Acceptance Criteria
 - Create a desktop and mobile experience based off of the specs in `design-specs/`.
 - Assume mobile devices are 600px and smaller.
-- When clicking the animal buttons a popup should open. Data within this should be requested through the mock facts API, `/api/facts/...`.
+- When clicking the animal buttons a popup should open with the right animal's facts data. Data within this should be requested through the mock facts API, `/api/facts/...`.
 - When clicking the close button in the popup, the popup should close.
 - If popup content is longer than can be displayed on the screen, it should be scrollable, as seen in the specs.
 - Functionality should work in IE9 and above.
