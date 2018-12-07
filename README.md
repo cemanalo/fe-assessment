@@ -23,6 +23,8 @@
 
 ## Acceptance Criteria
 - Create one experience which is responsive for desktop and mobile based off of the specs in `design-specs/`.
+    - ![Desktop Spec](design-specs/specs-no-details/desktop.png)
+    - ![Mobile Spec](design-specs/specs-no-details/mobile.png)
 - Assume mobile devices are 600px and smaller.
 - When clicking the animal buttons a popup should open with the right animal's facts data. Data within this should be requested through the mock facts API, `/api/facts/...`.
 - When clicking the close button in the popup, the popup should close.
