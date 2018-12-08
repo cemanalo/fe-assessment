@@ -20,6 +20,7 @@
     - ![Create PR 1](instruction-images/4-create_pr-1.png)
     - ![Create PR 2](instruction-images/5-create_pr-2.png)
     - ![Create PR 3](instruction-images/6-create_pr-3.png)
+1. Send the link to your public repo with us.
 
 ## Acceptance Criteria
 - Create one experience which is responsive for desktop and mobile based off of the specs in `design-specs/`.
