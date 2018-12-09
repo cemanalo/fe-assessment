@@ -12,7 +12,9 @@
 1. Start based off the code in [code/index.html](code/index.html).
 1. You probably will want to use a local web server to develop with. The [Chrome Web Server](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) is an easy Chrome server extension to use. Point the root to [code/](code/).
 1. For writing JS, please use a separate JS file.
+1. When writing JS, please use vanilla JS and no frameworks.
 1. For writing CSS, please use a separate CSS file.
+1. Googling is allowed.
 1. The [code/api/facts/](code/api/facts/) path contains a mock facts data JSON API. Endpoints to get data are `api/facts/cat.json`, `api/facts/dog.json`, etc.
 1. When managing your time, please focus first on the JS functionality, then on the CSS and HTML.
 1. When ready to submit, push the feature branch to your public repo.
